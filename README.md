@@ -61,13 +61,9 @@ Log.txt
 
 ## 프로젝트 구조
 src
-
 Account
-
 AuthorList
-
 Constant
-
 Date
 ItemList
 LoanList
