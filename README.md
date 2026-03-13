@@ -59,22 +59,7 @@ Log.txt
 
 ---
 
-## 프로젝트 구조
-src
-Account
-AuthorList
-Constant
-Date
-ItemList
-LoanList
-Log
-Processor
-Strategy
-LibraryApp.java
-Main.java
-
-
-### 구조 설명
+### 프로젝트 구조 및 설명
 
 Account  
 회원 정보 관련 클래스
