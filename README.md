@@ -61,17 +61,17 @@ Log.txt
 
 ## 프로젝트 구조
 src
-├─ Account
-├─ AuthorList
-├─ Constant
-├─ Date
-├─ ItemList
-├─ LoanList
-├─ Log
-├─ Processor
-├─ Strategy
-├─ LibraryApp.java
-└─ Main.java
+Account
+AuthorList
+Constant
+Date
+ItemList
+LoanList
+Log
+Processor
+Strategy
+LibraryApp.java
+Main.java
 
 
 ### 구조 설명
